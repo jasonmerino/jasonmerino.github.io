@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Create a branch from existing branch in git"
 date:   2014-06-03 12:41:47
-categories: jekyll update
+categories: git
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
