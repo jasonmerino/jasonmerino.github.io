@@ -34,6 +34,18 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
+.btn {
+  padding: 10px;
+  display: inline-block;
+  transition: box-shadow 0.2s;
+}
+
+.btn:hover {
+  border-radius: 2px;
+  box-shadow: 0 2px 7px #ddd;
+  text-decoration: none;
+}
+
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
@@ -103,7 +115,9 @@ a:visited { color: #205caa; }
   width: -moz-calc(23.125% - 10px);
   width: -o-calc(23.125% - 10px);
   width: calc(23.125% - 10px);
-  margin-right: 10px
+  margin-right: 10px;
+  position: relative;
+  top: -14px;
 }
 .footer-col-3 {
   width: 335px; /*fallback*/
@@ -125,10 +139,10 @@ a:visited { color: #205caa; }
 .github-icon-svg,
 .twitter-icon-svg {
   display: inline-block;
-  width: 16px;
-  height: 16px;
-  position: relative;
-  top: 3px;
+  width: 34px;
+  height: 34px;
+  vertical-align: middle;
+  padding-right: 10px;
 }
 
 
