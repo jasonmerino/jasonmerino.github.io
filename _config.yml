@@ -7,5 +7,5 @@ url: "http://yourdomain.com"
 username: "jasonmerino"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
