@@ -92,6 +92,10 @@ a:visited { color: #205caa; }
   padding: 30px 0;
 }
 
+.social .btn {
+  margin-bottom: 10px;
+}
+
 .footer-heading {
   font-size: 18px;
   font-weight: 300;
