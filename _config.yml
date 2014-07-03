@@ -4,6 +4,8 @@ description: "I build web apps and I have <b>fun</b> doing it."
 baseurl: ""
 url: "http://jasonmerino.github.io"
 username: "jasonmerino"
+disqus:
+  shortname: "jasonmerino"
 
 # Build settings
 markdown: redcarpet
