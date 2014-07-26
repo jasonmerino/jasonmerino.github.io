@@ -6,6 +6,7 @@ url: "http://jasonmerino.me"
 username: "jasonmerino"
 disqus:
   shortname: "jasonmerino"
+googleAnalyticsId: "UA-53226867-1"
 
 # Build settings
 markdown: redcarpet
