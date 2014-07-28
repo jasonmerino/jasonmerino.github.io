@@ -80,7 +80,7 @@ _.extend(Backbone.Model.prototype, {
     }
 
     // call default Backbone.Model.set
-    this.defaultSet.call(this, attrs, options);
+    return this.defaultSet.call(this, attrs, options);
   }
 });
 ```
