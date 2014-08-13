@@ -12,4 +12,4 @@ While I'm not at my day job, spending time with my family, or working in the gar
  * User Experience Consulting
  * Front-end Architecture & Optimization
 
-If you have a project in mind, new or otherwise, hit me up on [Twitter](http://twitter.com/jasonmerino).
+If you have a project in mind, new or otherwise, hit me up on [Twitter](http://twitter.com/jasonmerino). If you're interested in seeing code samples, other than what's here on the blog, you can checkout my [Github](https://github.com/jasonmerino) account.
