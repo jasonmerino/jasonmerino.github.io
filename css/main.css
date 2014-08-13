@@ -119,8 +119,6 @@ a:visited { color: #EC6161; }
   width: -o-calc(23.125% - 10px);
   width: calc(23.125% - 10px);
   margin-right: 10px;
-  position: relative;
-  top: -14px;
 }
 .footer-col-3 {
   width: 335px; /*fallback*/
