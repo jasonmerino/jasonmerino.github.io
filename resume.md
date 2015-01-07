@@ -31,6 +31,8 @@ Websweeper Inc. - April 2008 – March 2011
   * Angular.js
   * Coffeescript
   * Underscore.js
+  * Grunt.js
+  * Gulp.js
 * HTML, XHTML
 * CSS, SCSS, Less
   * Compass
