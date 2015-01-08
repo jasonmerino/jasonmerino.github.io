@@ -1,12 +1,10 @@
 ---
 layout: page
-metaTitle: Resume
-pageHeading: Resume
+metaTitle: Jason Merino's Resume of Knowledge and Experience
+pageHeading: Jason D. Merino
 navLinkText: Resume
 permalink: /resume/
 ---
-
-# Jason D. Merino
 
 ## Experience
 
@@ -16,9 +14,15 @@ Creating a mobile and tablet web platform for scalability and speed. We build an
 
 ### Front-End Developer
 Auctiva Corporation - March 2011 - July 2013
+I created and maintained the front-end experience for Auctiva’s online software taking mocks and ideas from designers and product managers and making them into a great user experience.
 
 ### Web Developer
 Websweeper Inc. - April 2008 – March 2011
+Click to edit position descriptionI was in charge of general website upkeep and creation of new product checkout experiences.
+
+### Production Lead
+Left Brain Marketing - July 2010 – October 2010
+I created cross email-client HTML emails for clients and scheduled them with various marketing automation services.
 
 ## Technology
 
